@@ -5,7 +5,7 @@ function add(num1, num2) {
 
     return suma;
 }
-console.log(add(2, 4) );
+console.log(add(firstNumber, secondNumber) );
 
 
     
